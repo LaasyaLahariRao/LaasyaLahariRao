@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaasyaLahariRao
+- 👋 Hi, I’m @LaasyaLahari
 - 👀 I’m interested in travelling, fashion, music and tech
 - 🌱 I’m currently learning genai
 - 💞️ I’m looking to collaborate on ai and ml projects
